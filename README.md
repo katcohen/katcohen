@@ -15,9 +15,9 @@ I am currently working in a failure analysis role, where I apply my analytical a
 ---
 
 ### 🚀 Featured Projects
-- 📈 [Fixed Income Portfolio Analytics] – Multi-sector bond portfolio construction, performance, and risk attribution.  
-- 🏦 [Yield Curve PCA Model] – Level, slope, and curvature factor modeling for Treasury yields.  
-- 📊 [Risk Dashboard] – Power BI/ Tableau dashboards for credit and market risk monitoring.  
+- 📈 Fixed Income Portfolio Analytics – Multi-sector bond portfolio construction, performance, and risk attribution.  
+- 🏦 Yield Curve PCA Model – Level, slope, and curvature factor modeling for Treasury yields.  
+- 📊 Risk Dashboard – Power BI/ Tableau dashboards for credit and market risk monitoring.  
 
 ---
 
