@@ -16,8 +16,8 @@ I am currently working in a failure analysis role, where I apply my analytical a
 
 ### 🚀 Featured Projects
 - 📈 [Fixed Income Portfolio Analytics](docs/memo_templates/FI_model_portfolio.md) - Evaluated a diversified, advisor-style fixed-income model portfolio under current macro conditions.
-- 🏦 [Yield Curve PCA Model] – Level, slope, and curvature factor modeling for Treasury yields.  
-- 📊 [Risk Dashboard] – Power BI/ Tableau dashboards for credit and market risk monitoring.
+- 🏦 Yield Curve PCA Model – Level, slope, and curvature factor modeling for Treasury yields.  
+- 📊 Risk Dashboard – Power BI/ Tableau dashboards for credit and market risk monitoring.
 - 🏦 [IG Credit Portfolio Factor Attribution](docs/memo_templates/factor_attrib_analysis.md) - Multi-factor regression of a diversified fixed-income portfolio 
 - 📊 [High Yield Portfolio Performance Attribution](docs/memo_templates/performance_attrib_memo.md) - Performed a Brinson-style attribution of HY portfolio performance relative to a benchmark.
 - 📈 [Fixed Income Scenario & Stress](docs/memo_templates/stress_analyst_memo.md) - Evaluated portfolio sensitivity to rate and spread shocks using scenario analysis and stress testing.
