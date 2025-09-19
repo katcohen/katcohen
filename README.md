@@ -1,4 +1,4 @@
-# Hi, I’m Katherine 👋  
+# Hi 👋  
 
 🎓 Master’s in Financial Management (Investment Analysis concentration)  
 📊 Passionate about Fixed Income, Risk Management, and Quantitative Modeling  
