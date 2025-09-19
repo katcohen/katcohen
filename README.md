@@ -19,10 +19,10 @@ I am currently working in a failure analysis role, where I apply my analytical a
 - 🏦 [Yield Curve PCA Model] – Level, slope, and curvature factor modeling for Treasury yields.  
 - 📊 Risk Dashboard – Power BI/ Tableau dashboards for credit and market risk monitoring.
 - 🏦 [DCF Model Analysis](DCF_Analysis.ipynb)
-- 📊 YTM Analysis [YTM_analysis.ipynb]
-- 🏦 [Credit Risk Analysis for large HY Telecom](MertonModel_ Large_HY_Telecom.ipynb)
+- 📊 [YTM Analysis](YTM_analysis.ipynb)
+- 🏦 [Credit Risk Analysis for large HY Telecom](MertonModel_Large_HY_Telecom.ipynb)
 - 📈 [CIR Model - Tariff Sensitivies](CIR_Tariff_Sensitive-2.ipynb)
-- 📊 [Yield Curve Analysis](Fixed-Income_Yield Curves, Bond Pricing, Duration & Convexity.ipynb)
+- 📊 [Yield Curve Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/Fixed-Income_Yield%20Curves%2C%20Bond%20Pricing%2C%20Duration%20%26%20Convexity.ipynb)
 - 🏦 [IG Credit Portfolio Factor Attribution](docs/memo_templates/factor_attrib_analysis.md)
 - 📊 [High Yield Portfolio Performance Attribution](docs/memo_templates/performance_attrib_memo.md)
 - 📈 [Fixed Income Scenario & Stress](docs/memo_templates/stress_analyst_memo.md)
