@@ -20,12 +20,12 @@ I am currently working in a failure analysis role, where I apply my analytical a
 - 📊 Risk Dashboard – Power BI/ Tableau dashboards for credit and market risk monitoring.
 - 🏦 [DCF Model Analysis](DCF_Analysis.ipynb)
 - 📊 YTM Analysis [YTM_analysis.ipynb]
-- 🏦 Credit Risk Analysis for large HY Telecom  [MertonModel_ Large_HY_Telecom.ipynb]
-- 📈 CIR Model - Tariff Sensitivies - [CIR_Tariff_Sensitive-2.ipynb] -
-- 📊 Yield Curve Analysis [Fixed-Income_Yield Curves, Bond Pricing, Duration & Convexity.ipynb] 
-- 🏦 IG Credit Portfolio Factor Attribution - [docs/memo_templates/factor_attrib_analysis.md]
-- 📊 High Yield Portfolio Performance Attribution - [docs/memo_templates/performance_attrib_memo.md]
-- 📈 Fixed Income Scenario & Stress - [docs/memo_templates/stress_analyst_memo.md] 
+- 🏦 [Credit Risk Analysis for large HY Telecom](MertonModel_ Large_HY_Telecom.ipynb)
+- 📈 [CIR Model - Tariff Sensitivies](CIR_Tariff_Sensitive-2.ipynb)
+- 📊 [Yield Curve Analysis](Fixed-Income_Yield Curves, Bond Pricing, Duration & Convexity.ipynb)
+- 🏦 [IG Credit Portfolio Factor Attribution](docs/memo_templates/factor_attrib_analysis.md)
+- 📊 [High Yield Portfolio Performance Attribution](docs/memo_templates/performance_attrib_memo.md)
+- 📈 [Fixed Income Scenario & Stress](docs/memo_templates/stress_analyst_memo.md)
 
 ---
 
