@@ -26,7 +26,7 @@ I am currently working in a failure analysis role, where I apply my analytical a
 - 🏦 [Credit Risk Analysis for large HY Telecom](https://github.com/katcohen/Fixed_income_Analysis/blob/main/MertonModel_%20Large_HY_Telecom.ipynb) - Assessed the credit risk of a large, high-yield telecom firm using the Merton Model.
 - 📈 [CIR Model - Tariff Sensitivies](https://github.com/katcohen/Fixed_income_Analysis/blob/main/CIR_Tariff_Sensitive-2.ipynb) - Measured rate volatility under current tariff escalations.
 - 📊 [Yield Curve Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/Fixed-Income_Yield%20Curves%2C%20Bond%20Pricing%2C%20Duration%20%26%20Convexity.ipynb) - Yield Curves, bond pricing, duration & convexity.
-<img width="468" height="653" alt="image" src="https://github.com/user-attachments/assets/b2e78e5d-4919-432a-afce-14abd0ed8575" />
+
  
 
 
