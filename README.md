@@ -21,11 +21,11 @@ I am currently working in a failure analysis role, where I apply my analytical a
 - 📈 [Fixed Income Scenario & Stress](https://github.com/katcohen/fixed-income-risk-portfolio/blob/main/docs/memo_templates/stress_analyst_memo.md) - Evaluated portfolio sensitivity to rate and spread shocks using scenario analysis and stress testing.
   
 
-- 🏦 [DCF Model Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/DCF_Analysis.ipynb) - Ran DCF analysis to calculate point-in-time valuation and a set of actionable levers (duration/DV01, convexity, horizon carry) to align the position with rate outlook and risk budget.
-- 📊 [YTM Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/YTM_analysis.ipynb) - Performed YTM analysis to provide portfolio implications.
-- 🏦 [Credit Risk Analysis for large HY Telecom](https://github.com/katcohen/Fixed_income_Analysis/blob/main/MertonModel_%20Large_HY_Telecom.ipynb) - Assessed the credit risk of a large, high-yield telecom firm using the Merton Model.
-- 📈 [CIR Model - Tariff Sensitivies](https://github.com/katcohen/Fixed_income_Analysis/blob/main/CIR_Tariff_Sensitive-2.ipynb) - Measured rate volatility under current tariff escalations.
-- 📊 [Yield Curve Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/Fixed-Income_Yield%20Curves%2C%20Bond%20Pricing%2C%20Duration%20%26%20Convexity.ipynb) - Yield Curves, bond pricing, duration & convexity.
+- 🏦 [DCF Model Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/DCF_Analysis%3A%20Bond%20Valuation%20and%20Risk%20Snapshot.md) - Ran DCF analysis to calculate point-in-time valuation and a set of actionable levers (duration/DV01, convexity, horizon carry) to align the position with rate outlook and risk budget.
+- 📊 [YTM Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/YTM_Bond_Analysis%3A%20Executive%20Summary.md)- Performed YTM analysis to provide portfolio implications.
+- 🏦 [Credit Risk Analysis for large HY Telecom](https://github.com/katcohen/Fixed_income_Analysis/blob/main/MertonModel_Large_HY_Telecom_Summary.md) - Assessed the credit risk of a large, high-yield telecom firm using the Merton Model.
+- 📈 [CIR Model - Tariff Sensitivies](https://github.com/katcohen/Fixed_income_Analysis/blob/main/CIR_Tariff_Sensitive:Investor%20Summary.md) - Measured rate volatility under current tariff escalations.
+- 📊 [Yield Curve Analysis](https://github.com/katcohen/Fixed_income_Analysis/blob/main/Fixed-Income_Yield%20Curve%20Analysis.md)) - Yield Curves, bond pricing, duration & convexity.
 
  
 
